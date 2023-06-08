@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir -p /tmp/u
+find . -regex ".*/[A-Z0-9]+\.[a-z]+"
+
