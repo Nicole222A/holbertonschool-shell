@@ -1,0 +1,13 @@
+#!/bin/bash
+echo ls_cwd_content > drwxr-xr-x 2 root root 198 Jun 12 09:50 .
+drwxr-xr-x 6 root root 103 Jun  9 10:18 ..
+-rwxr--r-- 1 root root  32 Jun  9 10:34 0-hello_world
+-rwxr--r-- 1 root root  28 Jun  9 10:46 1-confused_smiley
+-rwxr--r-- 1 root root  28 Jun 12 05:26 2-hellofile
+-rwxr--r-- 1 root root  39 Jun 12 05:35 3-twofiles
+-rwxr--r-- 1 root root  35 Jun 12 05:39 4-lastlines
+-rwxr--r-- 1 root root  29 Jun 12 05:43 5-firstlines
+-rwxr--r-- 1 root root  40 Jun 12 05:58 6-third_line
+-rwxr--r-- 1 root root  99 Jun 12 09:38 7-file
+-rwxr--r-- 1 root root  33 Jun 12 09:50 8-cwd_state
+-rw-r--r-- 1 root root  36 Jun  9 10:18 README.md 
