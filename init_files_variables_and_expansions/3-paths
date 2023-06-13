@@ -1,5 +1,1 @@
-#!/bin/bash
-find . -type d | wc -l
-   
-find . -type d | wc -l
-   66
+#!/bin/ba66
